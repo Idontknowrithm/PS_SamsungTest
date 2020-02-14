@@ -1,3 +1,4 @@
+//파이프 옮기기 1
 #include<iostream>
 int ans;
 void findRoad(int (*house)[20], int row, int col, int size, int status);
